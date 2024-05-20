@@ -1,0 +1,39 @@
+.card{
+    border:1px solid rgb(20, 13, 13);
+    background-color: #fff;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 8px 8px 12px 4px rgba(0, 0, 0, 0.1);
+  }
+  .loginCard{
+    border:1px solid rgb(251, 248, 248);
+    background-color: #fff;
+    width: 50%;
+    border-radius: 8px;
+    box-shadow: 8px 8px 12px 4px rgba(0, 0, 0, 0.1);
+  }
+  .img{
+    width: 200px;
+    height: 250px;
+  }
+  .cardImg{
+    width: 450px;
+    height: 300px;
+  }
+  .title {
+    max-height: 3.5em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .cardDetails{
+    border:1px solid rgb(252, 249, 249);
+    background-color: #fff;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 8px 8px 12px 4px rgba(0, 0, 0, 0.1);
+  }
+  .signout{
+    margin-left: 1100px;
+  }
+  

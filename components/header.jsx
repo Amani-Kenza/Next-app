@@ -33,7 +33,7 @@ export default function Header({ allProducts }) {
         <ul className='flex gap-6 pt-2 ml-72'>
           <li>About</li>
           <Link href="/product"><li>Products</li></Link>
-          <Link href="/connexion"><li>Log in</li></Link> 
+          <Link href="/login"><li>Log in</li></Link> 
         </ul>
       </nav>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-8 ml-4">
